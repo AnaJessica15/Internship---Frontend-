@@ -1,0 +1,47 @@
+.top-container {
+    background-color: beige;
+    padding: 4rem 4rem;
+}
+
+h1{
+    color:#02475e ;
+    text-align: center;
+    font-size: 50px;
+}
+
+.mb-1{
+    text-align: center;
+}
+
+.mb-2{
+    text-align: center;
+}
+
+.mb-3{
+    text-align: center;
+}
+
+.ex{
+    text-align: center;
+}
+
+.read{
+    text-align: center;
+}
+
+.mov{
+    text-align: center;
+}
+
+select{
+    text-align-last:center;
+    padding-right: 29px;
+    direction: rtl;
+    text-indent: 5px;
+    float: left;
+}
+
+.button{
+    text-align: center;
+    padding: 5rem;
+}
